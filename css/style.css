@@ -73,7 +73,7 @@ body {
 .hero_area {
   height: 100vh;
   background-color: #101112;
-  background-image: url();
+  background-image: url(../images/hero.png);
   background-size: cover;
 }
 
@@ -182,7 +182,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(../images/hero.png);
   background-size: 55px;
 }
 
@@ -195,7 +195,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #f5d033;
+  color: #ffdf00
 }
 
 .slider_section .detail-box {
@@ -204,7 +204,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  font-size: 4rem;
+  font-size: 6rem;
   text-transform: uppercase;
 }
 
