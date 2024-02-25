@@ -99,12 +99,13 @@
 
 @media (max-width: 360px) {
     .container{
-        max-width: 70%;
+        width: 70%;
     }
     }
 @media (max-width: 380px) {
     .container{
-        max-width: 70%;
+        width: 70%;
+        
     }
    
 }
