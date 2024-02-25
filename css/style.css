@@ -1,3 +1,8 @@
+* {
+  margin:0; 
+  padding:0;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   color: #000000;
@@ -72,7 +77,6 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-color: #101112;
   background-image: url(../images/hero.png);
   background-size: cover;
   object-fit: cover;
