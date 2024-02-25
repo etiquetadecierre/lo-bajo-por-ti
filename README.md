@@ -5,15 +5,18 @@
 </p>
 
 ## Descripción 
-Proyecto realizado para el curso Desarrollo web de Coderhouse.
+Proyecto realizado para el curso Desarrollo web de Coderhouse. 
+<br> Dirigido a personas que no desean una suscripción y/o pago mensual por contenido digital (películas, series tv, juegos PC, libros, etc), <br> sino que pagarán solamente el contenido que consuman, quedando para ellos mismos en su dispositivo a elección.
+
 
 ## FrontEnd Development (Algunos conocimientos)
 HTML, CSS, Bootstrap, SASS, JavaScript
 
 ## Autor/es
 Juan Pablo Pereira https://github.com/etiquetadecierre
-## Thanks
+## Agradecimientos
 
-<a href="https://www.coderhouse.cl/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJNwQivf1sWFRie7hWCgrTtBoqAxAZcIb-1ZlwISDca_t4J44L0tFoWThnUKSmETnml0&usqp=CAU" width="80"/></a>
+<a href="https://www.coderhouse.cl/"><img src="https://emprelatam.com/wp-content/uploads/2019/10/logos-coderhouse-01.png" width="80"/></a>
 
-Thanks to [Coderhouse](https://www.coderhouse.cl/) or providing the necessary tools to get started in the world of web development
+Gracias a [Coderhouse](https://www.coderhouse.cl/) por facilitar las herramientas necesarias para iniciarme en el mundo del desarrollo web <br>
+A mi esposa (Andea Nuñez) por apoyarme durante todo el proceso.
