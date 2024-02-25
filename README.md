@@ -6,7 +6,7 @@
 
 ## Descripción 
 Proyecto realizado para el curso Desarrollo web de Coderhouse. 
-<br> Dirigido a personas que no desean una suscripción y/o pago mensual por contenido digital (películas, series tv, juegos PC, libros, etc), <br> sino que pagarán solamente el contenido que consuman, quedando para ellos mismos en su dispositivo a elección.
+<br> Dirigido a personas que no desean una suscripción y/o pago mensual por contenido digital <br> (películas, series tv, juegos PC, libros, etc),  sino que pagarán solamente el contenido que consuman, <br> quedando para ellos mismos en su dispositivo a elección.
 
 
 ## FrontEnd Development (Algunos conocimientos)
