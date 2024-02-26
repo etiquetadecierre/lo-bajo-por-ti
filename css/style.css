@@ -253,14 +253,15 @@ a:focus {
     font-weight: bold;
     text-transform: uppercase;
     position: relative;
+    align-items: center;
 }
 
 
 .do_section .heading_container {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  text-align: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
 }
 
 .do_section .do_container {
