@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://codesandbox.io">
+  <a href="https://etiquetadecierre.github.io/lo-bajo-por-ti/">
     <img src="https://github.com/etiquetadecierre/lo-bajo-por-ti/blob/main/images/image-index.png" height="300px">
   </a>
 </p>
